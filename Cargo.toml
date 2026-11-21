@@ -1,10 +1,10 @@
 [package]
-name = "arch-conflicts"
+name = "sigmaos-conflicts"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-conflicts component - SigmaOS component"
+description = "SigmaOS SigmaOS-conflicts component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-conflicts"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-conflicts"
 
 [dependencies]
 thiserror = "2"

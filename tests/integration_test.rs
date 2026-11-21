@@ -1,4 +1,4 @@
-use arch_conflicts::Component;
+use sigmaos_conflicts::Component;
 
 #[test]
 fn test_component_new_aaa() {
